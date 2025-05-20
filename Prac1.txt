@@ -3,3 +3,5 @@ Now I'm Learning to Skip the Staging Area By Adding the -a infront of -m in the 
 now i'm learning the command to know the difference between the file(changed) of the working directory to the 
 file in the staging area and that can also be used to know the difference between staged area files just By
 adding the --staged to it
+to delete or remove an file from the local repo then we use the command 
+git rm --cached filename
