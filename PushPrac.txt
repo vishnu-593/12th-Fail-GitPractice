@@ -1,0 +1,4 @@
+but bef
+
+trying to push a file to the remote repo
+using git push origin main
