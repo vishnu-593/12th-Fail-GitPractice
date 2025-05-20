@@ -1,0 +1,7 @@
+starting to practicing the branch command
+use git checkout -b branchname
+to create a branch
+git branch
+to know in which branch we're existing in
+Note:if we commit any files being in an other branch then the files committed to the respective branch and disappears
+if we switch to another branch
