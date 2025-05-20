@@ -7,3 +7,5 @@ Note:if we commit any files being in an other branch then the files committed to
 if we switch to another branch
 command to switch to other branch is
 git switch branchname
+to delete a branch we use
+git branch -d branchname
