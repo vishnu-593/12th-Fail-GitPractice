@@ -13,3 +13,7 @@ usually the syntax of the push command
 is 
 git push -u origin branchname
 so to push a branch we use it by giving the branch name in the above command
+to merge a branch we use either merge command or the rebase command
+firstly to merge a branch we need to be in the main branch 
+and then 
+git merge branchname
