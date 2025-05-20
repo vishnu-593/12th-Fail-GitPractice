@@ -9,3 +9,7 @@ command to switch to other branch is
 git switch branchname
 to delete a branch we use
 git branch -d branchname
+usually the syntax of the push command
+is 
+git push -u origin branchname
+so to push a branch we use it by giving the branch name in the above command
